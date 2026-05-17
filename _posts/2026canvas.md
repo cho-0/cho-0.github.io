@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Canvas LMS 해킹 사건 분석"
+date: 2026-05-17
+categories: security incident-analysis
+---
+
+
 # 2026년 Canvas 데이터 유출 사건 분석
 
 
